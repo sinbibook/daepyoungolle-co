@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-05T12:08:15.246419338Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-18T04:41:13.847673702Z",
     "templateType": "trip_b",
     "propertyId": "f652bc9d-1887-46d5-ab38-ba4625c7f232",
     "homepageId": "01a1a4e0-739a-7561-9284-d62e2f6aa3ca"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.",
-    "usageGuide": "※ 픽업은 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 무료, 유아 무료\n(1박기준/현장결제)\n※ 영,유아도 추가 인원에 포함되며 초등학생 이상부터 이불추가비용 포함한 20,000원의 추가비용이 발생합니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외 테이블 \n- 이용 형태: 야외 숯불 바베큐 \n- 제공 구성: 숯 + 그릴 + 집게 + 가위\n- 이용 요금: 4인 20,000원, 화로 2개 사용 시 40,000원  (1박기준/현장결제)\n- 신청 시간: ~18:00 \n- 이용 시간: 제한없음\n- 준비 소요시간: 30분\n※ 우천, 강풍 시 : 이용 불가  \n※ 동계 시: 이용 가능\n※ 천막, 비닐막 없음\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT 이용 불가 \n- 엘레베이터 미보유 \n- 화순금모래 해수욕장: 차량 15분\n- 편의점 도보 약 10분\n- 하나로마트 중문점 차량 10분\n\n[교통편]\n네비게이션에 제주특별자치도 서귀포시 안덕면 대평로 52을 검색해주세요. 제주국제공항  182번 버스 531번 버스 돔뱅이왓 정류장 하차 (약 1시간 30분 소요)",
+    "usageGuide": "[공지사항]\n※ 픽업은 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영,유아도 추가 인원에 포함되며 초등학생 이상부터 이불추가비용 포함한 20,000원의 추가비용이 발생합니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외 테이블 \n- 이용 형태: 야외 숯불 바베큐 \n- 제공 구성: 숯 + 그릴 + 집게 + 가위\n- 이용 요금: 4인 20,000원, 화로 2개 사용 시 40,000원  (1박기준/현장결제)\n- 신청 시간: ~18:00 \n- 이용 시간: 제한없음\n- 준비 소요시간: 30분\n※ 우천, 강풍 시 : 이용 불가  \n※ 동계 시: 이용 가능\n※ 천막, 비닐막 없음\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT 이용 불가 \n- 엘레베이터 미보유 \n- 화순금모래 해수욕장: 차량 15분\n- 편의점 도보 약 10분\n- 하나로마트 중문점 차량 10분\n\n[교통편]\n네비게이션에 제주특별자치도 서귀포시 안덕면 대평로 52을 검색해주세요. 제주국제공항  182번 버스 531번 버스 돔뱅이왓 정류장 하차 (약 1시간 30분 소요)",
     "reservationGuide": "※ 픽업은 불가합니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -311,7 +311,7 @@
           {
             "id": "97579ba7-2c48-40f1-b29a-db8945f6f202",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/BOtARC4d5wzE.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -321,7 +321,7 @@
           {
             "id": "92125d5f-b544-4a71-9cd5-641d0a6324e0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/zeurtiZ7HGBf.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -329,7 +329,7 @@
           {
             "id": "67774497-cd1b-4af4-8d06-5ea8a84f1e32",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/BFvlQzxCwSIt.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -337,7 +337,7 @@
           {
             "id": "28471c18-dd57-4477-b7ff-eb372d436de6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/DhYvyzrcq1jH.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -345,7 +345,7 @@
           {
             "id": "84d2b1c1-6ada-42b0-a95b-7dff26a95f64",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/hVrBvuYiFNmA.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -353,7 +353,7 @@
           {
             "id": "fe08937e-0cbc-4e93-af36-f97aa48192ba",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/1itmCcPjxbY5.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -361,7 +361,7 @@
           {
             "id": "ee8c1521-4888-4dd7-b336-ed90eb5f1f3f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/vDkEnT6tXKli.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -369,7 +369,7 @@
           {
             "id": "0fe72c01-465c-42ed-99ee-bee3d3df62cb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/M9vHefc5wAUJ.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -377,7 +377,7 @@
           {
             "id": "35ecb552-5052-4e8e-a051-21373120918a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/nUCQWEyToe1f.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -385,7 +385,7 @@
           {
             "id": "914ec82b-db40-423e-8071-acade3450361",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/UjNqWJxhn23z.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2111,7 +2111,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
